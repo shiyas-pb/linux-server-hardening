@@ -23,3 +23,5 @@ Firewall and security rules protect system services.
 ```bash
 sudo bash scripts/ssh_hardening.sh
 sudo bash scripts/firewall_setup.sh
+
+# linux-server-hardening
